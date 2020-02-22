@@ -11,14 +11,14 @@ echo
 
 figlet -f standard "T O O L S-H" | lolcat
 
-echo "============================================" | lolcat
+echo "============================================"|lolcat
 echo      Author  :" M-Hillah" | lolcat
 echo      contack :" 0878xxxx" | lolcat
-echo "============================================" | lolcat
+echo "============================================"|lolcat
 date | lolcat
-echo "============================================" | lolcat
+echo "============================================"|lolcat
 echo $me"|"$ku" 00"$me" |"$i" [install bahan-bahan]"
-echo "============================================" | lolcat
+echo "============================================"|lolcat
 echo $me"|"$ku" 1"$me" |"$i" SocialFish"
 echo $me"|"$ku" 2"$me" |"$i" Shellphish"
 echo $me"|"$ku" 3"$me" |"$i" BlackEye"
@@ -79,7 +79,7 @@ echo $me"|"$ku" 57"$me"|"$i" WPSCAN"
 echo $me"|"$ku" 58"$me"|"$i" A2SV SSL-VUL-SCAN"
 echo $me"|"$ku" 59"$me"|"$i" VISQL [SQLI-VULN-SCANNERS]"
 echo $me"|"$ku" 99"$me"|"$i" EXIT"
-echo "============================================" | lolcat
+echo "============================================"|lolcat
 echo $me "┌==="$bi"["$ku"Tool-H"$i"]"$me"======="$me"["$ku""masukkan pilihan anda""$i"]"
 echo $me "¦"
 read -p " └── ~# " pil
